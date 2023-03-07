@@ -1,38 +1,26 @@
 <h1 align="center">Hi 👋, I'm Debbie Johnson</h1>
+<h3>About Me</h3>
 
-<br>
+- 🏦 I'm currently working for a state college in Nebraska teaching computer programming.
 
-- 🌱 I’m currently working on my Python certifaction.
+- 🌱 I’m studing to complete my Python certifications.
 
-- 📫 How to reach me **dejohns2@wsc.edu**
+- 🤔 I use daily .java, .cpp, .py, .sql
 
-<br>
+- 📫 How to reach me **dejohns2@wsc.edu**, 
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-  <a href="https://www.linkedin.com/in/dljohnson1234/" target="blank"><img align="center"
-      src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg"
-      alt="adam pithewan" height="30" width="40" /></a>
-</p>
+- Connect with me **https://www.linkedin.com/in/dljohnson1234/**
 
-<br>
+<br/>
+I have held numerous IT positions including software analyst and project management for world market leaders. I have a wide range of technology experience ranging from microcomputer support to programming in numerous languages utilizing a variety of databases and hardware platforms. 
+<br/>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> 
-  <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img 
-      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg"
-      alt="cplusplus" width="40" height="40" /> </a>
-  <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img
-      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40"
-      height="40" /> </a>
-  <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img
-      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg"
-      alt="mysql" width="40" height="40" /> </a> 
-  <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img
-      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python"
-      width="40" height="40" /> </a>
-</p>
+<h3>Education</h3>
 
-<br>
-     
-[dejohns2](https://github.com/dejohns2)
+- MSOM, IT Management, Wayne State College, 2016
+
+- B.A., Computer Information Systems/Web Analyst, Wayne State College, 2014
+
+- A.A., Northeast Community College, 2014
+
+- AAS, Computer Programming, Northeast Community College, 1984
