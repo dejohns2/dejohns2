@@ -1,15 +1,19 @@
 <h1 align="center">Hi 👋, I'm Debbie Johnson</h1>
 <h3>About Me</h3>
 
-- 🏦 I'm currently working for a state college in Nebraska teaching computer programming.
+- 🏦 I'm currently working for a state college in Nebraska teaching computer programming
 
-- 🌱 I’m studing to complete my Python certifications.
+- 📚 I’m studing to complete my Python certifications
 
 - 🤔 I use daily .java, .cpp, .py, .sql
 
-- 📫 How to reach me **dejohns2@wsc.edu**, 
+- 👨🏻‍💻 Love programming and resolving problems
 
-- Connect with me **https://www.linkedin.com/in/dljohnson1234/**
+- 🧠 I like to learn something new
+
+- 📫 How to reach me **dejohns2@wsc.edu**
+
+- 💬 Connect? lets get social @ **https://www.linkedin.com/in/dljohnson1234/**
 
 <br/>
 I have held numerous IT positions including software analyst and project management for world market leaders. I have a wide range of technology experience ranging from microcomputer support to programming in numerous languages utilizing a variety of databases and hardware platforms. 
