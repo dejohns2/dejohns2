@@ -17,7 +17,8 @@ I have held numerous IT positions including software analyst and project managem
 <details>
   <summary>:zap: Github Stats</summary>
   
-  <img align="left" alt="dejohns2's GitHub Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=codeSTACKr&show_icons=true&hide_border=true" />
+  <img align="left" alt="dejohns2's GitHub Stats" src="https://github-profile-readme-generator-delta.vercel.app
+/api?username=dejohns2&show_icons=true&hide_border=true" />
 
 </details>   
 
