@@ -13,10 +13,12 @@
 I have held numerous IT positions including software analyst and project management for world market leaders. I have a wide range of technology experience ranging from microcomputer support to programming in numerous languages utilizing a variety of databases and hardware platforms. 
 
 ---
+
 <details>
   <summary>:zap: Github Stats</summary>
 <img align="left" alt="dejohns2's GitHub Stats" src="https://github-profile-readme-generator-delta.vercel.app/api?username=dejohns2&show_icons=true&theme=gruvbox" />
-</details>
+</details>  
+
 ---
 ### Education
 
