@@ -1,11 +1,7 @@
-# 👋 Hi, I'm Debbie Johnson  
+# Hi, I'm Debbie Johnson  
 
 🎓 **Computer Programming Instructor**  
 🏫 Wayne State College · Wayne, Nebraska  
-
-<a href="https://www.linkedin.com/in/dljohnson1234/" target="_blank">
-  <img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn" />
-</a>
 
 ---
 
@@ -18,7 +14,9 @@ Before teaching, I worked across multiple IT roles including **software analysis
 Today, I focus on equipping students with:
 - Practical programming skills  
 - Strong analytical and problem-solving habits  
-- A professional mindset aligned with real-world development teams  
+- A professional mindset aligned with real-world development teams   
+  
+Connect with me on <a href="https://www.linkedin.com/in/dljohnson1234/" target="_blank"><img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn" /></a>
 
 ---
 
