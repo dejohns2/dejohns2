@@ -3,13 +3,9 @@
 🎓 **Computer Programming Instructor**  
 🏫 Wayne State College | Wayne, Nebraska  
 
-<a href="https://www.linkedin.com/in/dljohnson1234/" target="_blank">
-  <img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn" />
-</a>
-
 ---
 
-## 👩‍💻 About Me
+## 👩‍💻 About Me 
 
 I’m a computer programming instructor with extensive industry and academic experience.  
 Before teaching, I held multiple IT roles—including **software analyst** and **project management**—supporting world market leaders.
@@ -21,6 +17,12 @@ My background spans:
 - Diverse hardware and operating platforms  
 
 I’m passionate about preparing students with **real-world programming skills** and a strong foundation in problem-solving.
+
+---
+
+Connect with me on <a href="https://www.linkedin.com/in/dljohnson1234/" target="_blank">
+  <img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn" />
+</a>
 
 ---
 
