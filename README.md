@@ -60,7 +60,7 @@ I emphasize **clean code**, **documentation**, **debugging**, and **collaboratio
 ---
 
 ⭐ *Today is the day to learn something new.*  
-⭐ *Every acommplishment starts with a decision to try.* 
+⭐ *Every acommplishment starts with a decision to try.*  
 ⭐ *Blessed are the curious for they shall have adventures.*  
 ⭐ *A person who never make a mistake, never tried anything new. - Albert Einstein*  
 ⭐ *Education is the most powerful tool which you can use to change the world. - Nelson Mandela*  
