@@ -3,7 +3,7 @@
 
 - 🏦 I'm a computer programming instructor for Wayne State College in Wayne, Nebraska
 
-- 📚 Here are my [Certificates](https://www.credly.com/users/deborah-johnson.084a1f28/badges#credly) from Credly.
+- 📚 Here are my [Achievements](https://www.credly.com/users/deborah-johnson.084a1f28/badges#credly) from Credly.
 
 - 💻 Skill stack  
   [![My Skills](https://skillicons.dev/icons?i=java,python,cpp,mysql&theme=light)](https://skillicons.dev)
