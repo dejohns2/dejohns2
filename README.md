@@ -1,20 +1,14 @@
 # Hi 👋, I'm Debbie Johnson
-## About Me
+## About Me <a href="https://www.linkedin.com/in/dljohnson1234/" target="blank"><img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn" /></a>
 
-- 🏦 I'm currently working for a state college in Nebraska teaching computer programming
+- 🏦 I'm a computer programming instructor for Wayne State College in Wayne, Nebraska
 
-- 📚 I’m studing to complete my Python certifications
+- 📚 Here are my [Certificates](https://www.credly.com/users/deborah-johnson.084a1f28/badges#credly) from Credly.
 
-- 🤔 I use daily .java, .cpp, .py, .sql
+- 💻 Programming languages that I use daily:  
+  [![My Skills](https://skillicons.dev/icons?i=java,python,cpp,mysql&theme=light)](https://skillicons.dev)
 
-- 👨🏻‍💻 Love programming and resolving problems
-
-- 🧠 I like to learn something new
-
-- 📫 How to reach me **dejohns2@wsc.edu**
-
-- 💬 Connect? Lets get social @ **https://www.linkedin.com/in/dljohnson1234/**
-
+---
 
 I have held numerous IT positions including software analyst and project management for world market leaders. I have a wide range of technology experience ranging from microcomputer support to programming in numerous languages utilizing a variety of databases and hardware platforms. 
 
