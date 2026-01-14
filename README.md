@@ -58,7 +58,7 @@ I believe effective programming education must reflect the realities of the work
 I emphasize **clean code**, **documentation**, **debugging**, and **collaboration** so students graduate with skills they can immediately apply in professional environments.
 
 ---
-
+Some of my favorite quotes:  
 ⭐ *Today is the day to learn something new.*  
 ⭐ *Every acommplishment starts with a decision to try.*  
 ⭐ *Blessed are the curious for they shall have adventures.*  
