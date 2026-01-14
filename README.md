@@ -5,13 +5,18 @@
 
 - 📚 Here are my [Certificates](https://www.credly.com/users/deborah-johnson.084a1f28/badges#credly) from Credly.
 
-- 💻 Programming languages that I use daily:  
+- 💻 Skill stack  
   [![My Skills](https://skillicons.dev/icons?i=java,python,cpp,mysql&theme=light)](https://skillicons.dev)
 
 ---
 
 I have held numerous IT positions including software analyst and project management for world market leaders. I have a wide range of technology experience ranging from microcomputer support to programming in numerous languages utilizing a variety of databases and hardware platforms. 
 
+---
+
+![My GitHub stats](https://github-readme-stats.vercel.app/api?username=dejohns2&show_icons=true&theme=radical)
+
+---
 ### Education
 
 - MSOM, IT Management, Wayne State College, 2016
