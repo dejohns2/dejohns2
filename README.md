@@ -14,7 +14,7 @@ I have held numerous IT positions including software analyst and project managem
 
 ---
 
-[![My GitHub stats](https://github-readme-stats.vercel.app/api?username=dejohns2&show_icons=true&theme=gruvbox)](https://github.com/dejohns2/github-readme-stats)
+[![My GitHub stats](https://github-profile-readme-generator-delta.vercel.app/api?username=dejohns2&show_icons=true&theme=gruvbox)](https://github.com/dejohns2/github-readme-stats)
 
 ---
 ### Education
